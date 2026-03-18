@@ -1,6 +1,6 @@
 [submodule "forks/xnu"]
 	path = forks/xnu
-	url = https://github.com/aosm/xnu.git
+	url = https://github.com/doctashay/xnu.git
 [submodule "forks/bootx"]
 	path = forks/bootx
 	url = https://github.com/aosm/BootX.git
