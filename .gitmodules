@@ -1,0 +1,30 @@
+[submodule "forks/xnu"]
+	path = forks/xnu
+	url = https://github.com/aosm/xnu.git
+[submodule "forks/bootx"]
+	path = forks/bootx
+	url = https://github.com/aosm/BootX.git
+[submodule "forks/dyld"]
+	path = forks/dyld
+	url = https://github.com/aosm/dyld.git
+[submodule "forks/objc4"]
+	path = forks/objc4
+	url = https://github.com/aosm/objc4.git
+[submodule "forks/cctools"]
+	path = forks/cctools
+	url = https://github.com/aosm/cctools.git
+[submodule "forks/ld64"]
+	path = forks/ld64
+	url = https://github.com/aosm/ld64.git
+[submodule "forks/launchd"]
+	path = forks/launchd
+	url = https://github.com/aosm/launchd.git
+[submodule "forks/configd"]
+	path = forks/configd
+	url = https://github.com/aosm/configd.git
+[submodule "forks/libsecurity_ssl"]
+	path = forks/libsecurity_ssl
+	url = https://github.com/aosm/libsecurity_ssl.git
+[submodule "forks/mDNSResponder"]
+	path = forks/mDNSResponder
+	url = https://github.com/aosm/mDNSResponder.git
