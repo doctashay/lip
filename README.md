@@ -14,3 +14,4 @@ Start here:
 - `docs/roadmap.md`
 - `docs/project-structure.md`
 - `docs/component-matrix.md`
+- `docs/build.md`
