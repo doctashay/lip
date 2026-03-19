@@ -6,12 +6,6 @@ This repository is organized around a simple rule:
 
 - the root is a git monorepo
 - each upstream OSS codebase we maintain lives under `forks/` as its own git submodule where practical
+- project-native components that are not upstream forks live under `modules/`
 - project-wide planning and policy live under `docs/`
 - packaging, release, and installer work live outside the fork directories
-
-Start here:
-
-- `docs/roadmap.md`
-- `docs/project-structure.md`
-- `docs/component-matrix.md`
-- `docs/build.md`
